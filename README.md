@@ -8,7 +8,7 @@ Supervised machine learning code
 **doi**:10.1016/j.watres.2023.120686
    
 # Email
-huhuan@cigit.ac.cn
+huhuan.1994cn@gmail.com
 
 
 
